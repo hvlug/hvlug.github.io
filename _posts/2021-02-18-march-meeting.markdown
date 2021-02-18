@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Next Meeting: March 13th 2021"
-date:   2021-03-13 10:30:00 +1100
+date:   2021-02-18 10:30:00 +1100
 categories: meeting
 ---
 
