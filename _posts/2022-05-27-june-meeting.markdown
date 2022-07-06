@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Next Meeting: July 9th 2022"
-date:   2022-07-06 12:00:00 +1100
+date:   2022-07-05 12:00:00 +1100
 categories: meeting
 ---
 
